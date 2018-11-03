@@ -5,8 +5,8 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "username": "Faysal Mahmud Abid" },
-    { "id": 2, "body": "some comment", "username": "Tafsir Ony" }
+    { "id": 1, "body": "noob but I will try my best.", "username": "Faysal Mahmud Abid" },
+    { "id": 2, "body": "oh! i got it.", "username": "Tafsir Ony" }
   ],
   "profile": {
     "name": "typicode"
